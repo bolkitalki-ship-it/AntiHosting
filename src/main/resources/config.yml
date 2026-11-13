@@ -1,0 +1,7 @@
+# Konfiguracja pluginu AntiHosting
+blocked-keywords:
+  - "mcserverhost.com"
+  - "hosted by"
+  - "free minecraft hosting"
+
+log-blocked-messages: true
